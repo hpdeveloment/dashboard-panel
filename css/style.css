@@ -117,4 +117,8 @@
         display: none;
     }
 
+    .master .side-panel .logo img{
+        width: 80%;
+    }
+
 }
