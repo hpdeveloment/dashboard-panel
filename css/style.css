@@ -12,6 +12,8 @@
     justify-content: space-between;
 }
 
+/* -----------side-panel start------------- */
+
 .master .side-panel{
     width: 15%;
     background-color: #fafafa;
@@ -49,6 +51,11 @@
     background-color: #D1E1EE;
     border-left: 5px solid #3167BD;
 }
+
+/* -----------side-panel over------------- */
+
+
+/* -----------dasboard-panel start------------- */
 
 .master .dashboard{
     width: 85%;
@@ -111,6 +118,11 @@
     color: #828F98;
 }
 
+/* -----------dashboard panel over------------- */
+
+
+/* -----------Media Query Start------------- */
+
 @media only screen and (max-width: 615px){
   
     .master .side-panel .panel h4{
@@ -122,3 +134,5 @@
     }
 
 }
+
+/* -----------Media Query Over------------- */
